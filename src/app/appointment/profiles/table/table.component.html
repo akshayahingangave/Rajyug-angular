@@ -1,0 +1,18 @@
+<div class="table1">
+  <table class="table table-striped">
+    <thead>
+      <tr style="border-radius: 30%;">
+        <th scope="col">Name</th>
+        <th scope="col">Mobile</th>
+        <th scope="col">DOB</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let presenting of presents">
+        <td>{{ presenting.name }}</td>
+        <td>{{ presenting.mobile }}</td>
+        <td>{{ presenting.dob }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

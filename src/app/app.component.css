@@ -1,0 +1,13 @@
+#content{
+    margin-top: 20px;
+    /* padding: 0%;
+    margin: 0px; */
+}
+#sidebar{
+    background-color: rgb(51, 137, 187);
+    color: white;
+}
+
+.fas, .fa {  
+font-size: 25px;
+}

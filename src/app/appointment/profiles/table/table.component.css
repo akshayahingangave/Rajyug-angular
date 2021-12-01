@@ -1,0 +1,19 @@
+thead{
+    background-color: rgb(112, 133, 85);
+}
+
+th{
+    border: none;  
+    text-align: center;
+    
+}
+
+td{
+    height: 50px;
+    overflow-y: auto;
+    background-color: rgb(189, 187, 187);
+}
+
+tr{
+    border-radius: 60%;
+}
